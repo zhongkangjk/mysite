@@ -1,0 +1,1 @@
+F:\¹Ù·½ÎÄµµ\env\Scripts\activate.bat&&python manage.py runserver 0:8000
